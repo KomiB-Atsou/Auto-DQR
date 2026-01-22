@@ -1,0 +1,8 @@
+{
+  "rule_type": "completeness",
+  "table": "client",
+  "column": "Brand",
+  "description": "Brand obligatoire sauf particulier",
+  "filter": "TypeClient = 'particulier'",
+  "values": "''"
+}
