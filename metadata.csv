@@ -1,0 +1,3 @@
+table,column,description,data_type,allowed_values
+client,TypeClient,Type de client,string,"('particulier','entreprise')"
+client,Brand,Marque du client,string,
