@@ -1,4 +1,4 @@
-{
+[{
   "rule_type": "completeness",
   "table": "client",
   "column": "Brand",
@@ -6,3 +6,4 @@
   "filter": "TypeClient = 'particulier'",
   "values": "''"
 }
+]
